@@ -1,20 +1,35 @@
-# Unity-Full-Project-Car-Racing-Game-
+# Unity Car Racing Project
 
+![Game Screenshot](pic.png)
 
-![pic](pic.png)
+A full-featured **Car Racing Game** developed in **Unity 2021.3.25f1** as part of a campus project. This project demonstrates core Unity mechanics, AI opponent behavior, and interactive gameplay.
 
+## 🔹 Project Overview
+This game allows players to control a car and race against AI opponents on a dynamic track. It includes multiple features like speedometers, timers, checkpoints, and opponent AI that follows waypoints. The project is fully playable and customizable.
 
-This project was done by me for one of my campus projects and here the full project has been uploaded as a Mediafire Link so that it can be downloaded only and anyone can download it by following the link below.
+## 🔹 Features
+- **Player Car Control:** Smooth acceleration, braking, and steering mechanics.  
+- **AI Opponents:** Cars follow predefined waypoints for competitive racing.  
+- **Race Timer:** Track your race time and compare with best scores.  
+- **Speedometer:** Real-time speed display for the player car.  
+- **Waypoints System:** AI cars follow path points for realistic movement.  
+- **Car Selection:** Choose different cars before starting the race.  
+- **Skip Button:** Option to skip tutorials or cutscenes.  
+- **Optimized for Unity 2021:** Fully compatible project files.
 
-Mediafire Link :  https://www.mediafire.com/file/axg48uoidiyzwrf/Project.zip/file (Compressed Size 1.2GB )
+## 🔹 Project Files
+- All **C# scripts** for gameplay, AI, UI, and mechanics.  
+- Full **Unity project folder** included.  
+- **Screenshot/Image Assets** used in the game.
 
-Zip File Password : 1490
+## 🔹 Download
+The full project can be downloaded via the Mediafire link:
 
-Unity Editor Version :- Unity 2021.3.25f1
+[Download Project (1.2GB)](https://www.mediafire.com/file/axg48uoidiyzwrf/Project.zip/file)  
 
+**Zip Password:** 1490
 
-Note :- MUST READ THIS .....👇
+---
 
-"There may be small mistakes in this project, for example, there are small mistakes in car movements and car sounds.  You just have to open it and you have full freedom to change the things you want and make it as you like"
-
-All the Coding Scripts related to this project have been uploaded above and they are also included in the Full Project Zip.
+**Note:**  
+Some small bugs may exist in car movement or sounds. You are free to modify and enhance the project as you like. All scripts are included and ready to use.
